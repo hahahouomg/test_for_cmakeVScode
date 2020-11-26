@@ -1,0 +1,5 @@
+/home/shihui/Documents/test/build/CMakeFiles/edit_cache.dir
+/home/shihui/Documents/test/build/CMakeFiles/package_source.dir
+/home/shihui/Documents/test/build/CMakeFiles/rebuild_cache.dir
+/home/shihui/Documents/test/build/CMakeFiles/package.dir
+/home/shihui/Documents/test/build/CMakeFiles/test_for_cmakeVScode.dir

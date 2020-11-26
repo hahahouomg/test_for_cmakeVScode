@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/shihui/Documents/test/build",
+  "command": "/bin/g++-9   -isystem /home/shihui/Documents/ThirdParty/opencv/opencv451/release/installed/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/test_for_cmakeVScode.dir/main.o -c /home/shihui/Documents/test/main.cpp",
+  "file": "/home/shihui/Documents/test/main.cpp"
+}
+]
